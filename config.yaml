@@ -1,0 +1,13 @@
+#
+#
+#       CONFIGURATION FILE FOR TASK PUSHING
+#
+#
+
+
+api_key: tookan-api-key
+debug: False
+
+url: https://website.com/
+consumer_key: woocommerce_consumer_key
+consumer_secret: woocommerce_consumer_secret
