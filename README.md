@@ -1,4 +1,4 @@
-# TookanWooCommerceIntegration
+# Tookan WooCommerce Integration
 
 This repository contains a Python-based integration between a WooCommerce-based e-commerce website and the Tookan delivery management application. The integration uses a REST API framework to automate the creation of delivery, pickup, and pickup & delivery tasks on Tookan when the status of an order on the e-commerce website changes.
 
